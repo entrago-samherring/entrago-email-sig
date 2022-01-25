@@ -1,4 +1,3 @@
-
 import React from 'react';
 import DetailsForm from './DetailsForm'
 import AppBar from '@mui/material/AppBar';
