@@ -1,0 +1,13 @@
+form {
+    padding:20px;
+}
+.input-group {
+    margin-top:10px;
+    width:60%;
+    display:flex;
+    flex-wrap:wrap;
+}
+
+input {
+    width: fit-content;
+}
